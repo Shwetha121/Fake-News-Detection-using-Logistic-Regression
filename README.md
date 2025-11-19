@@ -66,7 +66,7 @@ python fake_news_detection.py
 ```
 fake-news-detection/
 │
-├── train.csv                    # Training dataset
+├── overview.ppt                   # Training dataset
 ├── fake_news_detection.py       # Main implementation file
 ├── README.md                    # Project documentation
 └── requirements.txt             # Python dependencies
